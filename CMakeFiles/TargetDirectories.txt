@@ -1,0 +1,3 @@
+/home/vezzy/Create/ndb/CMakeFiles/executor.dir
+/home/vezzy/Create/ndb/CMakeFiles/edit_cache.dir
+/home/vezzy/Create/ndb/CMakeFiles/rebuild_cache.dir

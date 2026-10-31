@@ -1,0 +1,4 @@
+# TODO
+
+- [ ] Verify that `Real` (`double`) meets the engine's floating-point requirements using compile-time checks for size, IEEE 754 support, precision, and exponent range.
+- [ ] When implementing persistence, define a portable representation and byte order for numeric values.

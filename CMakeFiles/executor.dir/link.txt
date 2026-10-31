@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/executor.dir/link.d CMakeFiles/executor.dir/src/engine.cxx.o CMakeFiles/executor.dir/src/db.cxx.o CMakeFiles/executor.dir/src/types.cxx.o -o executor
